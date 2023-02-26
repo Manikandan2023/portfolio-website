@@ -13,8 +13,8 @@ export const projects = [
     description:"The restaurant website created using React and JavaScript is a dynamic, interactive and responsive web application that allows users to view information about the restaurant, its menu, location and make online reservations. The website is built using modern front-end technologies and is designed to provide an excellent user experience on both desktop and mobile devices.",
     image: '/images/restaurant.png',
     tags: ['React', 'JavaScript'],
-    source: 'https://github.com/Manikandan2023/react-restaurant',
-    visit: 'https://restaurant25.netlify.app',
+    source: 'https://restaurant25.netlify.app',
+    visit: 'https://github.com/Manikandan2023/react-restaurant',
     id: 1,
   },
   
