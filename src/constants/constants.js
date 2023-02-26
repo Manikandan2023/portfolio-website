@@ -14,10 +14,10 @@ export const projects = [
     image: '/images/restaurant.png',
     tags: ['React', 'JavaScript'],
     source: 'https://github.com/Manikandan2023/react-restaurant',
-    visit: 'https://google.com',
+    visit: 'https://restaurant25.netlify.app',
     id: 1,
   },
- 
+  
   
 ];
 
